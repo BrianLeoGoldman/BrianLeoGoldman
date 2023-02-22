@@ -1,12 +1,14 @@
-### Hi there 👋
+### Hi there. My name is Brian.
+- I am a Technician in Computer Programming from the University of Quilmes (UNQ).
+- I have a degree in Sociology from the University of Buenos Aires (UBA).
+- I have 4 years of experience as a backend developer, working with Java and Python languages.
+- I also have studied SmallTalk, C++, C# and Haskell at the university.
+- I’m currently learning JavaScript through the CoderHouse platform.
+- I am also developing my own projects with Python, learning Django and pygame.
 
 <!--
-**BrianLeoGoldman/BrianLeoGoldman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+👋 🌱
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
