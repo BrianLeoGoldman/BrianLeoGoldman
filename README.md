@@ -21,8 +21,7 @@
 - I am a web designer, having learned both HTML and CSS.
 - I’m currently learning JavaScript through the CoderHouse platform.
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1200px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="125" height="75">
-  <img src="https://1000marcas.net/wp-content/uploads/2020/11/JavaScript-logo.png" width="125" height="75">
+  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="125" height="75">
 </p>
 
 - I am also developing my own projects with Python, learning Django and pygame.
