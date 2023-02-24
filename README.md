@@ -22,8 +22,7 @@
 - I am a web designer, having learned both HTML and CSS.
 
 <p align="center">
-  <img src="https://img.icons8.com/color/512/html-5--v1.png" width="150" height="150">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="150" height="150">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1200px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="150" height="150">
 </p>
 
 - I also have studied C++, Haskell, SmallTalk and C# at the university.
