@@ -21,7 +21,7 @@
 - I am a web designer, having learned both HTML and CSS.
 - I’m currently learning JavaScript through the CoderHouse platform.
 <p align="center">
-  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="175" height="100">
+  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="200" height="100">
 </p>
 
 - I am also developing my own projects with Python, learning Django and pygame.
