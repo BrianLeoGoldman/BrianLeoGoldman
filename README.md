@@ -18,7 +18,7 @@
 
 ### I can do web design since I know both HTML and CSS languages, and I am currently learning JavaScript through the CoderHouse platform courses.
 <p align="center">
-  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="150" height="50">
+  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="150" height="70">
 </p>
 
 ### I am also developing my own personal projects with Python, learning frameworks like Django and modules like pygame in the process.
