@@ -9,7 +9,6 @@
  
 - I have 4 years of experience as a backend developer, working with Java and Python languages.
 - I also have studied C++, Haskell, SmallTalk and C# at the university.
-- 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="75" height="75">
   <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="75" height="75">
@@ -21,7 +20,6 @@
 
 - I am a web designer, having learned both HTML and CSS.
 - I’m currently learning JavaScript through the CoderHouse platform.
-- 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1200px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="125" height="75">
   <img src="https://1000marcas.net/wp-content/uploads/2020/11/JavaScript-logo.png" width="125" height="75">
