@@ -1,5 +1,6 @@
 ### Hi there. My name is Brian.
 - I am a Technician in Computer Programming from the University of Quilmes (UNQ).
+  ![Universidad de Buenos Aires](/UBA.jpg)
 - I have a degree in Sociology from the University of Buenos Aires (UBA).
 - I have 4 years of experience as a backend developer, working with Java and Python languages.
 - I also have studied SmallTalk, C++, C# and Haskell at the university.
