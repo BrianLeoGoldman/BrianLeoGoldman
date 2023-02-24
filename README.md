@@ -8,7 +8,7 @@
 - I have a degree in Sociology from the University of Buenos Aires (UBA).
 
 <p align="center">
-  <img src="https://w7.pngwing.com/pngs/376/559/png-transparent-university-of-buenos-aires-uba-facultad-de-ciencias-sociales-faculdade-de-direito-da-universidade-de-buenos-aires-common-basic-cycle-academia-white-mammal-photography.png" width="150" height="150">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/UBA.png" width="150" height="150">
 </p>
 
 - I have 4 years of experience as a backend developer, working with Java and Python languages.
