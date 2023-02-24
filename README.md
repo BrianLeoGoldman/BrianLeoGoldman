@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="150" height="150">
-  <img src="https://www.pngfind.com/pngs/m/62-626208_python-logo-png-transparent-background-python-logo-png.png" width="150" height="150">
+  <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="150" height="150">
 </p>
 
 - I also have studied SmallTalk, C++, C# and Haskell at the university.
