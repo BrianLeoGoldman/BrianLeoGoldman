@@ -1,14 +1,14 @@
-### Hi there. My name is Brian.
+# Hi there. My name is Brian.
 
-<font size="7">- I am a graduated Technician in Computer Programming from the University of Quilmes (UNQ).</font>
-- I also have a degree in Sociology from the University of Buenos Aires (UBA).
+###- I am a graduated Technician in Computer Programming from the University of Quilmes (UNQ).
+###- I also have a degree in Sociology from the University of Buenos Aires (UBA).
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_unqui.png" width="150" height="62">
   <img src="https://inigem-uba.conicet.gov.ar/wp-content/uploads/sites/83/2015/11/UBA_logo_blanco111.png" width="150" height="62">
 </p>
  
-- I have 4 years of experience as a backend developer, working with both Java and Python programming languages.
-- Also, I have studied other programming languages such as C++, Haskell, SmallTalk and C# at the university.
+###- I have 4 years of experience as a backend developer, working with both Java and Python programming languages.
+###- Also, I have studied other programming languages such as C++, Haskell, SmallTalk and C# at the university.
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="75" height="75">
   <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="75" height="75">
@@ -18,13 +18,13 @@
   <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="75" height="75">
 </p>
 
-- I can do web design since I know both HTML and CSS languages.
-- I am currently learning JavaScript through the CoderHouse platform courses.
+###- I can do web design since I know both HTML and CSS languages.
+###- I am currently learning JavaScript through the CoderHouse platform courses.
 <p align="center">
   <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="200" height="100">
 </p>
 
-- I am also developing my own projects with Python, learning Django and pygame in the process.
+###- I am also developing my own projects with Python, learning Django and pygame in the process.
  
 <!--
 👋 🌱
