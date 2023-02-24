@@ -19,12 +19,6 @@
   <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="150" height="150">
 </p>
 
-- I am a web designer, having learned both HTML and CSS.
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1200px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="250" height="150">
-</p>
-
 - I also have studied C++, Haskell, SmallTalk and C# at the university.
 
 <p align="center">
@@ -34,10 +28,16 @@
   <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="150" height="150">
 </p>
 
+- I am a web designer, having learned both HTML and CSS.
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1200px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="250" height="150">
+</p>
+
 - I’m currently learning JavaScript through the CoderHouse platform.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="300" height="125">
+  <img src="https://1000marcas.net/wp-content/uploads/2020/11/JavaScript-logo.png" width="300" height="125">
 </p>
 
 - I am also developing my own projects with Python, learning Django and pygame.
