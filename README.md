@@ -5,7 +5,7 @@
 - I also have studied SmallTalk, C++, C# and Haskell at the university.
 - I’m currently learning JavaScript through the CoderHouse platform.
 - I am also developing my own projects with Python, learning Django and pygame.
-
+ ![Logo UBA]([https://user-images.githubusercontent.com/118783310/219520581-cbd42990-c95b-41a1-ba81-9feaa1a618d3.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo_de_la_Universidad_de_Buenos_Aires.jpg/479px-Logo_de_la_Universidad_de_Buenos_Aires.jpg))
 <!--
 👋 🌱
 - 🔭 I’m currently working on ...
