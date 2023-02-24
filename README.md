@@ -37,7 +37,7 @@
 - I’m currently learning JavaScript through the CoderHouse platform.
 
 <p align="center">
-  <img src="https://1000marcas.net/wp-content/uploads/2020/11/JavaScript-logo.png" width="300" height="125">
+  <img src="https://1000marcas.net/wp-content/uploads/2020/11/JavaScript-logo.png" width="150" height="125">
 </p>
 
 - I am also developing my own projects with Python, learning Django and pygame.
