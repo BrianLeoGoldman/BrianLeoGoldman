@@ -19,7 +19,14 @@
   <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="150" height="150">
 </p>
 
-- I also have studied SmallTalk, C++, C# and Haskell at the university.
+- I am a web designer, having learned both HTML and CSS.
+
+<p align="center">
+  <img src="https://img.icons8.com/color/512/html-5--v1.png" width="150" height="150">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="150" height="150">
+</p>
+
+- I also have studied C++, Haskell, SmallTalk and C# at the university.
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="150" height="150">
@@ -29,6 +36,10 @@
 </p>
 
 - I’m currently learning JavaScript through the CoderHouse platform.
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="300" height="125">
+</p>
 
 - I am also developing my own projects with Python, learning Django and pygame.
  
