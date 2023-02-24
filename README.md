@@ -1,6 +1,6 @@
 ### Hi there. My name is Brian.
 
-- I am a graduated Technician in Computer Programming from the University of Quilmes (UNQ).
+<font size="5">- I am a graduated Technician in Computer Programming from the University of Quilmes (UNQ).</font>
 - I also have a degree in Sociology from the University of Buenos Aires (UBA).
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_unqui.png" width="150" height="62">
