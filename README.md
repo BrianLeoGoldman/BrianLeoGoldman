@@ -2,7 +2,7 @@
 
 ### I am a graduated Technician in Computer Programming from the University of Quilmes (UNQ). Also have a degree in Sociology from the University of Buenos Aires (UBA).
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_unqui.png" width="150" height="60">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_unqui.png" width="150" height="60">&nbsp;
   <img src="https://inigem-uba.conicet.gov.ar/wp-content/uploads/sites/83/2015/11/UBA_logo_blanco111.png" width="150" height="50">
 </p>
  
