@@ -12,7 +12,7 @@
 - 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="75" height="75">
-  <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="75" height="15750">
+  <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="75" height="75">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="75" height="75">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968259.png" width="75" height="75">
   <img src="https://d1tlzifd8jdoy4.cloudfront.net/wp-content/uploads/2016/02/icon-512x512.png" width="75" height="75">
@@ -20,15 +20,11 @@
 </p>
 
 - I am a web designer, having learned both HTML and CSS.
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1200px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="250" height="150">
-</p>
-
 - I’m currently learning JavaScript through the CoderHouse platform.
-
+- 
 <p align="center">
-  <img src="https://1000marcas.net/wp-content/uploads/2020/11/JavaScript-logo.png" width="250" height="150">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1200px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="125" height="75">
+  <img src="https://1000marcas.net/wp-content/uploads/2020/11/JavaScript-logo.png" width="125" height="75">
 </p>
 
 - I am also developing my own projects with Python, learning Django and pygame.
