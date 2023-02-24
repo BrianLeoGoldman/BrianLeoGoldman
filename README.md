@@ -4,7 +4,7 @@
 - I have a degree in Sociology from the University of Buenos Aires (UBA).
  
  <p align="center">
-  <img src="https://inigem-uba.conicet.gov.ar/wp-content/uploads/sites/83/2015/11/UBA_logo_blanco111.png" width="357" height="150">
+  <img src="https://inigem-uba.conicet.gov.ar/wp-content/uploads/sites/83/2015/11/UBA_logo_blanco111.png" width="300" height="150">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_unqui.png" width="300" height="150">
 </p>
 
