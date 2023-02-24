@@ -18,7 +18,7 @@
 
 ### I can do web design since I know both HTML and CSS languages, and I am currently learning JavaScript through the CoderHouse platform courses. Been working with git as a version control system for over 4 years.
 <p align="center">
-  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="175" height="75">
+  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="175" height="75">&nbsp;&nbsp;&nbsp;
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="75" height="75">
 </p>
 
