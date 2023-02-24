@@ -1,17 +1,12 @@
 ### Hi there. My name is Brian.
 
 - I am a Technician in Computer Programming from the University of Quilmes (UNQ).
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_unqui.png" width="300" height="125">
-</p>
-
 - I have a degree in Sociology from the University of Buenos Aires (UBA).
- 
- <p align="center">
-  <img src="https://inigem-uba.conicet.gov.ar/wp-content/uploads/sites/83/2015/11/UBA_logo_blanco111.png" width="300" height="125">
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_unqui.png" width="150" height="62">
+  <img src="https://inigem-uba.conicet.gov.ar/wp-content/uploads/sites/83/2015/11/UBA_logo_blanco111.png" width="150" height="62">
 </p>
-
+ 
 - I have 4 years of experience as a backend developer, working with Java and Python languages.
 
 <p align="center">
