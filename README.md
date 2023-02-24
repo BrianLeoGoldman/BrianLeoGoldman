@@ -21,6 +21,13 @@
 
 - I also have studied SmallTalk, C++, C# and Haskell at the university.
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="150" height="150">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968259.png" width="150" height="150">
+  <img src="https://d1tlzifd8jdoy4.cloudfront.net/wp-content/uploads/2016/02/icon-512x512.png" width="150" height="150">
+  <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="150" height="150">
+</p>
+
 - I’m currently learning JavaScript through the CoderHouse platform.
 
 - I am also developing my own projects with Python, learning Django and pygame.
