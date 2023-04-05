@@ -24,7 +24,7 @@
 
 ### I am currently learning React.JS and Django, and I am developing my own personal projects with Python, learning frameworks like Django and modules like pygame in the process.
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="75" height="75">&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="80" height="75">&nbsp;&nbsp;&nbsp;
   <img src="https://1000marcas.net/wp-content/uploads/2021/06/Django-Logo.png" width="120" height="75">
 </p>
  
