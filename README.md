@@ -16,15 +16,15 @@
   <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="75" height="75">
 </p>
 
-### I am also interested in frontend development. I have knowledge of both HTML and CSS, as well as JavaScript. I have been working with git as a version control system for over 4 years.
+### I am also interested in frontend development. I have knowledge of JavaScript programming language, as well as both HTML and CSS. I have been working with git as a version control system for over 4 years.
 <p align="center">
   <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="175" height="75">&nbsp;&nbsp;&nbsp;
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="75" height="75">
 </p>
 
-### I am currently learning React.JS and Django, and I am developing my own personal projects with Python, learning frameworks like Django and modules like pygame in the process.
+### I am currently learning React.JS through a CoderHouse course, and I am developing my own personal projects with Python, learning frameworks like Django and modules like pygame in the process.
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="80" height="75">&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="85" height="75">&nbsp;&nbsp;&nbsp;
   <img src="https://1000marcas.net/wp-content/uploads/2021/06/Django-Logo.png" width="120" height="75">
 </p>
  
