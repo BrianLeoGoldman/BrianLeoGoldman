@@ -17,19 +17,16 @@
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="75" height="75"/> </a> 
 </p>
 
-### I am also interested in Frontend development. I have knowledge of JavaScript programming language, as well as both HTML5 and CSS. I have been working with git as a version control system for over 4 years.
+### I am also interested in Frontend development. I have knowledge of JavaScript programming language, as well as both HTML5 and CSS.
 <p align="center">
-  <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="175" height="75">&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="75" height="75"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/> </a>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="75" height="75">
+  <a href="https://developer.mozilla.org/es/docs/Learn/Front-end_web_developer" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" width="175" height="75"> </a>
 </p>
 
-### I am currently learning React.JS through a CoderHouse course, and I am developing my own personal projects with Python, learning frameworks like Django and modules like pygame in the process.
+### I am currently learning React.JS through a CoderHouse course, and I am developing my own personal projects with Python, learning frameworks like Django and modules like pygame in the process. I have been working with git as a version control system for over 4 years.
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="85" height="75">&nbsp;&nbsp;&nbsp;
   <img src="https://1000marcas.net/wp-content/uploads/2021/06/Django-Logo.png" width="120" height="75">
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="75" height="75">
 </p>
  
 <!--
