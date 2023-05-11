@@ -12,7 +12,7 @@
   <a href="https://instagram.com/leonel89011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonel89011" height="60" width="60" /></a>
 </p>
  
-🧑‍💻 I have 4 years of experience as a backend developer, working with both Java and Python programming languages. I have studied other programming languages such as JavaScript, C++, Haskell, SmallTalk (with Pharo implementation) and C# at the university and on personal projects. I have been working with git as a version control system for over 4 years.
+🧑‍💻 I have 4 years of experience as a backend developer, working with both **Java** and **Python** programming languages. I have studied other programming languages such as **JavaScript**, **C++**, **Haskell**, **SmallTalk** (with Pharo implementation) and **C#** at the university and on personal projects. I have been working with **Git** as a version control system for over 4 years.
 <p align="center">
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="75" height="75"/> </a>
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> </a>
@@ -24,14 +24,14 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> </a> 
 </p>
 
-🖌️💻 I am also interested in Frontend development. I have knowledge of JavaScript programming language, as well as both HTML5 and CSS3. I have also worked with SASS and Bootstrap.
+🖌️💻 I am also interested in Frontend development. I have knowledge of **JavaScript** programming language, as well as both **HTML5** and **CSS**. I have also worked with **SASS** and **Bootstrap**.
 <p align="center">
   <a href="https://developer.mozilla.org/es/docs/Learn/Front-end_web_developer" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" alt="frontend" width="175" height="75"> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="75" height="75"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="75" height="75"/> </a>
 </p>
 
-🛠️ I have worked with frameworks like Spring on the Backend side and Angular and React (my personal favorite!) on the Frontend side. Also used tools like Postman and created some small games using Unity game engine.
+🛠️ I have worked with frameworks like **Spring** on the Backend side and **Angular** and **React.Js** (my personal favorite!) on the Frontend side. Also used tools like **Postman** and created some small games using the **Unity** game engine.
 <p align="center">
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="75" height="75"/> </a> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="75" height="75"/> </a> 
