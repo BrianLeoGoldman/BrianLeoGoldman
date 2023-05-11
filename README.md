@@ -42,7 +42,7 @@
 
 ⚙️ I have worked with both SQL database engines (**MariaDB**, **MySQL**, **Oracle**, **PostgreSQL**) and with NoSQL database engines, mainly with the document-based database **MongoDB** and a little with the graph-based **Neo4j**.
 <p align="center">
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" alt="mariadb" width="75" height="75"/> </a> 
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.seidengroup.com/wp-content/uploads/2020/12/mariadb-logo.png" alt="mariadb" width="75" height="75"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> </a> 
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="75" height="75"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="75" height="75"/> </a> 
