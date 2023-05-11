@@ -1,19 +1,18 @@
-<h1 align="center">Hi there 👋, my name is Brian</h1>
-<h3 align="center">I am a Full Stack developer from Argentina. I am a graduated Technician in Computer Programming from the University of Quilmes (UNQ). Also have a degree in Sociology from the University of Buenos Aires (UBA). My pronouns are he/him/his</h3>
-
+<h1 align="center">Hi there 👋, my name is Brian 😁</h1>
+<h3 align="center">First, a little about myself. I am a Full Stack developer from Argentina 🇦🇷. I am a graduated Technician in Computer Programming from the University of Quilmes (UNQ). 👨‍🎓 Also have a degree in Sociology from the University of Buenos Aires (UBA). My pronouns are he/him/his. I like programming 🖥️, swimming 🏊 and traveling ✈️, and I love reading 📕 (mostly history and science-fiction). I also hope writing something of my own one day 📝.</h3>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_unqui.png" width="180" height="75">&nbsp;&nbsp;&nbsp;
   <img src="https://inigem-uba.conicet.gov.ar/wp-content/uploads/sites/83/2015/11/UBA_logo_blanco111.png" width="190" height="75">
 </p>
 
-### 📫 If you want to connect with me, you can send me a message to **leonel89011@gmail.com** or find me on LinkedIn, Stackoverflow or Instagram:
+### 📬 If you want to connect with me, you can send me a message to **leonel89011@gmail.com** or find me on LinkedIn, Stackoverflow or Instagram.
 <p align="center">
   <a href="https://linkedin.com/in/brian-goldman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-goldman" height="75" width="75" /></a>
   <a href="https://stackoverflow.com/users/9756189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9756189" height="75" width="75" /></a>
   <a href="https://instagram.com/leonel89011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonel89011" height="75" width="75" /></a>
 </p>
  
-### 🔭 I have 4 years of experience as a backend developer, working with both Java and Python programming languages. I have studied other programming languages such as JavaScript, C++, Haskell, SmallTalk (with Pharo implementation) and C# at the university and on personal projects. I have been working with git as a version control system for over 4 years.
+### 🧑‍💻 I have 4 years of experience as a backend developer, working with both Java and Python programming languages. I have studied other programming languages such as JavaScript, C++, Haskell, SmallTalk (with Pharo implementation) and C# at the university and on personal projects. I have been working with git as a version control system for over 4 years.
 <p align="center">
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="75" height="75"/> </a>
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> </a>
@@ -25,14 +24,14 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> </a> 
 </p>
 
-### 😄 I am also interested in Frontend development. I have knowledge of JavaScript programming language, as well as both HTML5 and CSS3. I have also worked with SASS and Bootstrap.
+### 🖌️💻 I am also interested in Frontend development. I have knowledge of JavaScript programming language, as well as both HTML5 and CSS3. I have also worked with SASS and Bootstrap.
 <p align="center">
   <a href="https://developer.mozilla.org/es/docs/Learn/Front-end_web_developer" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" alt="frontend" width="175" height="75"> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="75" height="75"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="75" height="75"/> </a>
 </p>
 
-### I have worked with frameworks like Spring on the Backend side and Angular and React (my personal favorite!) on the Frontend side.
+### 🛠️ I have worked with frameworks like Spring on the Backend side and Angular and React (my personal favorite!) on the Frontend side.
 <p align="center">
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="75" height="75"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="75" height="75"/> </a> 
@@ -41,7 +40,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75"/> </a> 
 </p>
 
-### I have worked with both SQL database engines (MariaDB, MySQL, Oracle, PostgreSQL) and with NoSQL database engines, mainly with the document-based database MongoDB and a little with the graph-based Neo4j.
+### ⚙️ I have worked with both SQL database engines (MariaDB, MySQL, Oracle, PostgreSQL) and with NoSQL database engines, mainly with the document-based database MongoDB and a little with the graph-based Neo4j.
 <p align="center">
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="75" height="75"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> </a> 
@@ -71,7 +70,7 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="75" height="75"/> </a>
 </p>
  
-### 👨‍💻 In case you are interested, I also have some other projects on GitLab at [https://gitlab.com/BrianLeoGoldman](https://gitlab.com/BrianLeoGoldman), but I mainly use GitHub [https://github.com/BrianLeoGoldman](https://github.com/BrianLeoGoldman) for managing my repositories. 
+### 👨‍💻 In case you are interested, I also have some other projects on GitLab at [https://gitlab.com/BrianLeoGoldman](https://gitlab.com/BrianLeoGoldman), but I mainly use this GitHub [https://github.com/BrianLeoGoldman](https://github.com/BrianLeoGoldman) for managing my repositories. 
 
 
 
