@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Brian 😁</h1>
-<p align="center">First, a little about myself. I am a Full Stack developer from Argentina 🇦🇷. I am a graduated Technician in Computer Programming from the University of Quilmes (UNQ). 👨‍🎓 Also have a degree in Sociology from the University of Buenos Aires (UBA). My pronouns are he/him/his. I like programming 🖥️, swimming 🏊 and traveling ✈️, and I love reading 📕 (mostly history and science-fiction). I also hope writing something of my own one day 📝.</p>
+<p align="center">First, a little about myself. I am a Full Stack developer from Argentina 🇦🇷. I am a graduated Technician in Computer Programming from the University of Quilmes (UNQ). 👨‍🎓 Also have a degree in Sociology from the University of Buenos Aires (UBA). My pronouns are he/him/his. I like programming, swimming and traveling, and I love reading (mostly history and science-fiction). I also hope writing something of my own one day.</p>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_unqui.png" width="180" height="75">&nbsp;&nbsp;&nbsp;
   <img src="https://inigem-uba.conicet.gov.ar/wp-content/uploads/sites/83/2015/11/UBA_logo_blanco111.png" width="190" height="75">
@@ -40,7 +40,7 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="75" height="75"/> </a> 
 </p>
 
-⚙️ I have worked with both SQL database engines (MariaDB, MySQL, Oracle, PostgreSQL) and with NoSQL database engines, mainly with the document-based database MongoDB and a little with the graph-based Neo4j.
+⚙️ I have worked with both SQL database engines (**MariaDB**, **MySQL**, **Oracle**, **PostgreSQL**) and with NoSQL database engines, mainly with the document-based database **MongoDB** and a little with the graph-based **Neo4j**.
 <p align="center">
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="75" height="75"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> </a> 
@@ -50,7 +50,7 @@
   <a href="https://neo4j.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/neo4j-logo-png-transparent.png" alt="neo4j" width="75" height="75"/> </a> 
 </p>
 
-⚡ I have some knowledge of DevOps tools, such as Linux systems, Bash scripting language, Jenkins, Travis and Heroku.
+⚡ I have some knowledge of DevOps tools, such as **Linux** systems, **Bash** scripting language, **Jenkins**, **Travis** and **Heroku**.
 <p align="center">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="75" height="75"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="75" height="75"/> </a> 
@@ -59,7 +59,7 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="75" height="75"/> </a> 
 </p>
 
-🌱 I am currently expanding my knowledge of React.JS through a CoderHouse course (I really like this framework!), and I am also learning Vue, Tailwind, Node.js and Firebase. I am developing my own personal projects with Python, learning frameworks like Django and modules like pygame in the process. I am collaborating in the development of a videogame using Pixel Game Maker MV and I would also love to have more time to learn how to code on Arduino platforms and make my own projects with it!
+🌱 I am currently expanding my knowledge of **React.JS** through a CoderHouse course (I really like this framework!), and I am also learning **Vue**, **Tailwind**, **Node.js** and **Firebase**. I am developing my own personal projects with **Python**, learning frameworks like **Django** and modules like pygame in the process. I am collaborating in the development of a videogame using Pixel Game Maker MV and I would also love to have more time to learn how to code on **Arduino** platforms and make my own projects with it!
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="75" height="75"/> </a>
