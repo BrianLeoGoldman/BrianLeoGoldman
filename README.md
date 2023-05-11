@@ -59,7 +59,7 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="75" height="75"/> </a> 
 </p>
 
-### 🌱 I am currently expanding my knowledge of React.JS through a CoderHouse course (I really like this framework!), and I am also learning Vue, Tailwind, Node.js, Firebase. I am developing my own personal projects with Python, learning frameworks like Django and modules like pygame in the process. I am collaborating in the development of a videogame using Pixel Game Maker MV and I would also love to have more time to learn how to code on Arduino platforms and make my own projects with it!
+### 🌱 I am currently expanding my knowledge of React.JS through a CoderHouse course (I really like this framework!), and I am also learning Vue, Tailwind, Node.js and Firebase. I am developing my own personal projects with Python, learning frameworks like Django and modules like pygame in the process. I am collaborating in the development of a videogame using Pixel Game Maker MV and I would also love to have more time to learn how to code on Arduino platforms and make my own projects with it!
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="75" height="75"/> </a>
