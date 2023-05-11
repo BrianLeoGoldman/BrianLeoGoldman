@@ -1,22 +1,21 @@
 <h1 align="center">Hi there 👋, my name is Brian</h1>
-<h3 align="center">I am a Full Stack developer from Argentina. I am a graduated Technician in Computer Programming from the University of Quilmes (UNQ). Also have a degree in Sociology from the University of Buenos Aires (UBA).</h3>
+<h3 align="center">I am a Full Stack developer from Argentina. I am a graduated Technician in Computer Programming from the University of Quilmes (UNQ). Also have a degree in Sociology from the University of Buenos Aires (UBA). My pronouns are he/him/his</h3>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_unqui.png" width="180" height="75">&nbsp;&nbsp;&nbsp;
   <img src="https://inigem-uba.conicet.gov.ar/wp-content/uploads/sites/83/2015/11/UBA_logo_blanco111.png" width="190" height="75">
 </p>
 
-### If you want to connect with me, you can find me on LinkedIn, Stackoverflow or Instagram:
+### 📫 If you want to connect with me, you can send me a message to **leonel89011@gmail.com** or find me on LinkedIn, Stackoverflow or Instagram:
 <p align="center">
   <a href="https://linkedin.com/in/brian-goldman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-goldman" height="75" width="75" /></a>
   <a href="https://stackoverflow.com/users/9756189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9756189" height="75" width="75" /></a>
   <a href="https://instagram.com/leonel89011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonel89011" height="75" width="75" /></a>
 </p>
  
-### I have 4 years of experience as a backend developer, working with both Java (using the Spring framework) and Python programming languages. I have studied other programming languages such as JavaScript, C++, Haskell, SmallTalk (with Pharo implementation) and C# at the university and on personal projects. I have been working with git as a version control system for over 4 years.
+### 🔭 I have 4 years of experience as a backend developer, working with both Java and Python programming languages. I have studied other programming languages such as JavaScript, C++, Haskell, SmallTalk (with Pharo implementation) and C# at the university and on personal projects. I have been working with git as a version control system for over 4 years.
 <p align="center">
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="75" height="75"/> </a>
-   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="75" height="75"/> </a> 
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/> </a>
    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="75" height="75"/> </a> 
@@ -26,11 +25,18 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> </a> 
 </p>
 
-### I am also interested in Frontend development. I have knowledge of JavaScript programming language, as well as both HTML5 and CSS3. I have aslo worked with SASS, Bootstrap, Angular and React (my personal favorite).
+### 😄 I am also interested in Frontend development. I have knowledge of JavaScript programming language, as well as both HTML5 and CSS3. I have also worked with SASS and Bootstrap.
 <p align="center">
   <a href="https://developer.mozilla.org/es/docs/Learn/Front-end_web_developer" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" alt="frontend" width="175" height="75"> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="75" height="75"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="75" height="75"/> </a>
+</p>
+
+### I have worked with frameworks like Spring on the Backend side and Angular and React (my personal favorite!) on the Frontend side.
+<p align="center">
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="75" height="75"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="75" height="75"/> </a> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="75" height="75"/> </a> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="75" height="75"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75"/> </a> 
 </p>
@@ -45,7 +51,7 @@
   <a href="https://neo4j.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/neo4j-logo-png-transparent.png" alt="neo4j" width="75" height="75"/> </a> 
 </p>
 
-### I have some knowledge of DevOps tools, such as Linux systems, Bash scripting language, Jenkins, Travis and Heroku.
+### ⚡ I have some knowledge of DevOps tools, such as Linux systems, Bash scripting language, Jenkins, Travis and Heroku.
 <p align="center">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="75" height="75"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="75" height="75"/> </a> 
@@ -54,41 +60,23 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="75" height="75"/> </a> 
 </p>
 
-### I am currently expanding my knowledge of React.JS through a CoderHouse course (I really like this framework!), and I am developing my own personal projects with Python, learning frameworks like Django and modules like pygame in the process. I am also learning Vue, Tailwind, Node.js, Firebase. 
+### 🌱 I am currently expanding my knowledge of React.JS through a CoderHouse course (I really like this framework!), and I am also learning Vue, Tailwind, Node.js, Firebase. I am developing my own personal projects with Python, learning frameworks like Django and modules like pygame in the process. I am collaborating in the development of a videogame using Pixel Game Maker MV and I would also love to have more time to learn how to code on Arduino platforms and make my own projects with it!
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="75" height="75"/> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="75" height="75"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="75" height="75"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="75" height="75"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="75" height="75"/> </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="75" height="75"/> </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="75" height="75"/> </a>
 </p>
  
-<!--
-👋 🌱
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🔭 I’m currently working on [Quaver](https://github.com/BrianLeoGoldman/Quaver)
-
-- 🌱 I’m currently learning **Vue and Django**
-
-- 🤝 I’m looking for help with **a game development with Pixel Game Maker MV**
-
-- 👨‍💻 All of my projects are available at [https://github.com/BrianLeoGoldman?tab=repositories](https://github.com/BrianLeoGoldman?tab=repositories)
-
-- 📫 How to reach me **leonel89011@gmail.com**
+### 👨‍💻 In case you are interested, I also have some other projects on GitLab at [https://gitlab.com/BrianLeoGoldman](https://gitlab.com/BrianLeoGoldman), but I mainly use GitHub [https://github.com/BrianLeoGoldman](https://github.com/BrianLeoGoldman) for managing my repositories. 
 
 
 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="75" height="75"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="75" height="75"/> </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="75" height="75"/> </a> 
+
+   
+
   
 
