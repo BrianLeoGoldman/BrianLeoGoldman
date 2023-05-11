@@ -9,9 +9,9 @@
 ### I have 4 years of experience as a backend developer, working with both Java and Python programming languages. I have studied other programming languages such as C++, Haskell, SmallTalk and C# at the university.
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="75" height="75">&nbsp;&nbsp;&nbsp;
-   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="75" height="75"/> </a> 
   <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="75" height="75">&nbsp;&nbsp;&nbsp;
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> </a> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="75" height="75">&nbsp;&nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968259.png" width="75" height="75">&nbsp;&nbsp;&nbsp;
   <img src="https://d1tlzifd8jdoy4.cloudfront.net/wp-content/uploads/2016/02/icon-512x512.png" width="75" height="75">&nbsp;&nbsp;&nbsp;
