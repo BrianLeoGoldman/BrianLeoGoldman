@@ -1,6 +1,6 @@
-# Hi there. My name is Brian.
+<h1 align="center">Hi there 👋, my name is Brian</h1>
+<h3 align="center">I am a Full Stack developer from Argentina. I am a graduated Technician in Computer Programming from the University of Quilmes (UNQ). Also have a degree in Sociology from the University of Buenos Aires (UBA).</h3>
 
-### I am a graduated Technician in Computer Programming from the University of Quilmes (UNQ). Also have a degree in Sociology from the University of Buenos Aires (UBA).
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_unqui.png" width="180" height="75">&nbsp;&nbsp;&nbsp;
   <img src="https://inigem-uba.conicet.gov.ar/wp-content/uploads/sites/83/2015/11/UBA_logo_blanco111.png" width="190" height="75">
@@ -39,8 +39,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there 👋, my name is Brian</h1>
-<h3 align="center">I am a Full Stack developer from Argentina</h3>
+
 
 - 🔭 I’m currently working on [Quaver](https://github.com/BrianLeoGoldman/Quaver)
 
