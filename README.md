@@ -5,6 +5,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_unqui.png" width="180" height="75">&nbsp;&nbsp;&nbsp;
   <img src="https://inigem-uba.conicet.gov.ar/wp-content/uploads/sites/83/2015/11/UBA_logo_blanco111.png" width="190" height="75">
 </p>
+
+### If you want to connect with me, you can find me on LinkedIn, Stackoverflow or Instagram:
+<p align="center">
+  <a href="https://linkedin.com/in/brian-goldman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-goldman" height="75" width="75" /></a>
+  <a href="https://stackoverflow.com/users/9756189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9756189" height="75" width="75" /></a>
+  <a href="https://instagram.com/leonel89011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonel89011" height="75" width="75" /></a>
+</p>
  
 ### I have 4 years of experience as a backend developer, working with both Java (using the Spring framework) and Python programming languages. I have studied other programming languages such as JavaScript, C++, Haskell, SmallTalk (with Pharo implementation) and C# at the university and on personal projects. I have been working with git as a version control system for over 4 years.
 <p align="center">
@@ -78,12 +85,7 @@
 
 - 📫 How to reach me **leonel89011@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/brian-goldman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-goldman" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9756189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9756189" height="30" width="40" /></a>
-<a href="https://instagram.com/leonel89011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonel89011" height="30" width="40" /></a>
-</p>
+
 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="75" height="75"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="75" height="75"/> </a> 
