@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Brian 😁</h1>
-<h3 align="center">First, a little about myself. I am a Full Stack developer from Argentina 🇦🇷. I am a graduated Technician in Computer Programming from the University of Quilmes (UNQ). 👨‍🎓 Also have a degree in Sociology from the University of Buenos Aires (UBA). My pronouns are he/him/his. I like programming 🖥️, swimming 🏊 and traveling ✈️, and I love reading 📕 (mostly history and science-fiction). I also hope writing something of my own one day 📝.</h3>
+<p align="center">First, a little about myself. I am a Full Stack developer from Argentina 🇦🇷. I am a graduated Technician in Computer Programming from the University of Quilmes (UNQ). 👨‍🎓 Also have a degree in Sociology from the University of Buenos Aires (UBA). My pronouns are he/him/his. I like programming 🖥️, swimming 🏊 and traveling ✈️, and I love reading 📕 (mostly history and science-fiction). I also hope writing something of my own one day 📝.</p>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Logo_unqui.png" width="180" height="75">&nbsp;&nbsp;&nbsp;
   <img src="https://inigem-uba.conicet.gov.ar/wp-content/uploads/sites/83/2015/11/UBA_logo_blanco111.png" width="190" height="75">
