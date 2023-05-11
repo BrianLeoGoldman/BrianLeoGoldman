@@ -7,7 +7,7 @@
 
 ### 📬 If you want to connect with me, you can send me a message to **leonel89011@gmail.com** or find me on LinkedIn, Stackoverflow or Instagram.
 <p align="center">
-  <a href="https://linkedin.com/in/brian-goldman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-goldman" height="75" width="75" /></a>
+  <a href="https://linkedin.com/in/brian-goldman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-goldman" height="65" width="65" /></a>
   <a href="https://stackoverflow.com/users/9756189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9756189" height="75" width="75" /></a>
   <a href="https://instagram.com/leonel89011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonel89011" height="75" width="75" /></a>
 </p>
