@@ -7,9 +7,9 @@
 
 ### 📬 If you want to connect with me, you can send me a message to **leonel89011@gmail.com** or find me on LinkedIn, Stackoverflow or Instagram.
 <p align="center">
-  <a href="https://linkedin.com/in/brian-goldman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-goldman" height="65" width="65" /></a>
-  <a href="https://stackoverflow.com/users/9756189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9756189" height="65" width="65" /></a>
-  <a href="https://instagram.com/leonel89011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonel89011" height="65" width="65" /></a>
+  <a href="https://linkedin.com/in/brian-goldman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brian-goldman" height="60" width="60" /></a>
+  <a href="https://stackoverflow.com/users/9756189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9756189" height="60" width="60" /></a>
+  <a href="https://instagram.com/leonel89011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonel89011" height="60" width="60" /></a>
 </p>
  
 ### 🧑‍💻 I have 4 years of experience as a backend developer, working with both Java and Python programming languages. I have studied other programming languages such as JavaScript, C++, Haskell, SmallTalk (with Pharo implementation) and C# at the university and on personal projects. I have been working with git as a version control system for over 4 years.
