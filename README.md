@@ -47,29 +47,29 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="https://neo4j.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/neo4j-logo-png-transparent.png" alt="neo4j" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a>
+  <a href="https://neo4j.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/neo4j-logo-png-transparent.png" alt="neo4j" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a>
 </p>
 
 ⚡ I have some knowledge of DevOps tools, such as **Linux** systems, **Bash** scripting language, **Jenkins**, **Travis**, **Docker** and **Heroku**.
 <p align="center">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="bash" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="75" height="75" style="margin: 5px 5px 5px 5px""/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" alt="bash" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="100" height="75" style="margin: 5px 5px 5px 5px""/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" alt="docker" width="125" height="75" style="margin: 5px 5px 5px 5px"/> </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="125" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
 </p>
 
 🌱 I am currently expanding my knowledge of **React.JS** through a CoderHouse course (I really like this framework!), and I am also learning **Vue**, **Tailwind**, **Node.js** and **Firebase**. I am developing my own personal projects with **Python**, learning frameworks like **Django** and modules like pygame in the process. I am collaborating in the development of a videogame using Pixel Game Maker MV and I would also love to have more time to learn how to code on **Arduino** platforms and make my own projects with it!
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a>
 </p>
  
 👨‍💻 In case you are interested, I also have some other projects on GitLab at [https://gitlab.com/BrianLeoGoldman](https://gitlab.com/BrianLeoGoldman), but I mainly use this GitHub [https://github.com/BrianLeoGoldman](https://github.com/BrianLeoGoldman) for managing my repositories. 
