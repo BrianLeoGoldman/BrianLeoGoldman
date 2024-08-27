@@ -43,10 +43,10 @@
 ⚙️ I have worked with both SQL database engines (**MariaDB**, **MySQL**, **Oracle**, **PostgreSQL**) and with NoSQL database engines, mainly with the document-based database **MongoDB** and a little with the graph-based **Neo4j** and the in-memory **Redis**.
 <p align="center">
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.seidengroup.com/wp-content/uploads/2020/12/mariadb-logo.png" alt="mariadb" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
   <a href="https://neo4j.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/neo4j-logo-png-transparent.png" alt="neo4j" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
   <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a>
 </p>
@@ -58,7 +58,7 @@
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
   <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="75" height="75" style="margin: 5px 5px 5px 5px""/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-2013.png" alt="docker" width="125" height="75" style="margin: 5px 5px 5px 5px"/> </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="125" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
 </p>
 
 🌱 I am currently expanding my knowledge of **React.JS** through a CoderHouse course (I really like this framework!), and I am also learning **Vue**, **Tailwind**, **Node.js** and **Firebase**. I am developing my own personal projects with **Python**, learning frameworks like **Django** and modules like pygame in the process. I am collaborating in the development of a videogame using Pixel Game Maker MV and I would also love to have more time to learn how to code on **Arduino** platforms and make my own projects with it!
