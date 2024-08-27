@@ -28,7 +28,7 @@
 <p align="center">
   <a href="https://developer.mozilla.org/es/docs/Learn/Front-end_web_developer" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" alt="frontend" width="175" height="75"> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="75" height="75"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="75" height="75"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="75" height="75"/> </a>
 </p>
 
 🛠️ I have worked with frameworks like **Spring** on the Backend side and **Angular** and **React.Js** (my personal favorite!) on the Frontend side. Also used tools like **Postman** and created some small games using the **Unity** game engine.
