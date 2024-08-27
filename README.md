@@ -18,8 +18,8 @@
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a>
    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-   <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968259.png" alt="haskell" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="http://www.smalltalk.org/" target="_blank" rel="noreferrer"> <img src="https://d1tlzifd8jdoy4.cloudfront.net/wp-content/uploads/2016/02/icon-512x512.png" alt="csharp" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+   <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968259.png" alt="haskell" width="80" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="http://www.smalltalk.org/" target="_blank" rel="noreferrer"> <img src="https://d1tlzifd8jdoy4.cloudfront.net/wp-content/uploads/2016/02/icon-512x512.png" alt="csharp" width="80" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
 </p>
@@ -36,7 +36,7 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2023/01/Unity-Symbol.png" alt="unity" width="125" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
 </p>
 
@@ -47,7 +47,7 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="https://neo4j.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/neo4j-logo-png-transparent.png" alt="neo4j" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://neo4j.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/neo4j-logo-png-transparent.png" alt="neo4j" width="80" height="75" style="margin: 5px 10px 5px 10px"/> </a> 
   <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a>
 </p>
 
@@ -66,7 +66,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="80" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a>
