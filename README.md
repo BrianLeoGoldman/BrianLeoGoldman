@@ -37,7 +37,7 @@
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="75" height="75"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="75" height="75"/> </a> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="75" height="75"/> </a> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2023/01/Unity-Symbol.png" alt="unity" width="75" height="75"/> </a> 
 </p>
 
 ⚙️ I have worked with both SQL database engines (**MariaDB**, **MySQL**, **Oracle**, **PostgreSQL**) and with NoSQL database engines, mainly with the document-based database **MongoDB** and a little with the graph-based **Neo4j** and the in-memory **Redis**.
