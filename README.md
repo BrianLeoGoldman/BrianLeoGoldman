@@ -40,7 +40,7 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="75" height="75"/> </a> 
 </p>
 
-⚙️ I have worked with both SQL database engines (**MariaDB**, **MySQL**, **Oracle**, **PostgreSQL**) and with NoSQL database engines, mainly with the document-based database **MongoDB** and a little with the graph-based **Neo4j**.
+⚙️ I have worked with both SQL database engines (**MariaDB**, **MySQL**, **Oracle**, **PostgreSQL**) and with NoSQL database engines, mainly with the document-based database **MongoDB** and a little with the graph-based **Neo4j** and the in-memory **Redis**.
 <p align="center">
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.seidengroup.com/wp-content/uploads/2020/12/mariadb-logo.png" alt="mariadb" width="75" height="75"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/> </a> 
@@ -48,6 +48,7 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="75" height="75"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> </a> 
   <a href="https://neo4j.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/neo4j-logo-png-transparent.png" alt="neo4j" width="75" height="75"/> </a> 
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" width="75" height="75"/> </a>
 </p>
 
 ⚡ I have some knowledge of DevOps tools, such as **Linux** systems, **Bash** scripting language, **Jenkins**, **Travis** and **Heroku**.
