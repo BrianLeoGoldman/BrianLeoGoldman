@@ -14,29 +14,29 @@
  
 🧑‍💻 I have 4 years of experience as a backend developer, working with both **Java** and **Python** programming languages. I have studied other programming languages such as **JavaScript**, **C++**, **Haskell**, **SmallTalk** (with Pharo implementation) and **C#** at the university and on personal projects. I have been working with **Git** as a version control system for over 4 years.
 <p align="center">
-   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a>
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a>
-   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-   <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968259.png" alt="haskell" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="http://www.smalltalk.org/" target="_blank" rel="noreferrer"> <img src="https://d1tlzifd8jdoy4.cloudfront.net/wp-content/uploads/2016/02/icon-512x512.png" alt="csharp" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a>
+   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a>
+   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+   <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968259.png" alt="haskell" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="http://www.smalltalk.org/" target="_blank" rel="noreferrer"> <img src="https://d1tlzifd8jdoy4.cloudfront.net/wp-content/uploads/2016/02/icon-512x512.png" alt="csharp" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
 </p>
 
 🖌️💻 I am also interested in Frontend development. I have knowledge of **JavaScript** programming language, as well as both **HTML5** and **CSS**. I have also worked with **SASS** and **Bootstrap**.
 <p align="center">
   <a href="https://developer.mozilla.org/es/docs/Learn/Front-end_web_developer" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-best-web-design-psd-html-cms-development-ecommerce-6.png" alt="frontend" width="175" height="75" style="margin: 5px 5px 5px 5px"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a>
 </p>
 
 🛠️ I have worked with frameworks like **Spring** on the Backend side and **Angular** and **React.Js** (my personal favorite!) on the Frontend side. Also used tools like **Postman** and created some small games using the **Unity** game engine.
 <p align="center">
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="75" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2023/01/Unity-Symbol.png" alt="unity" width="125" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
 </p>
 
