@@ -65,7 +65,7 @@
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="100" height="75" style="margin: 5px 90px 5px 10px"/> </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="100" height="75" style="margin-right:60px"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="80" height="75" style="margin: 5px 5px 5px 20px"/> </a> 
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="100" height="75" style="margin: 5px 5px 5px 5px"/> </a>
